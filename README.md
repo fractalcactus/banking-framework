@@ -40,12 +40,12 @@ This separates the frivolous purchases from necessities when you look over your 
 * It is linked to the cheque button on your EFTPOS.This separates the frivolous purchases from necessities when you look over your accounts and see where your money is going.
 * It is fed by BILLS, which has a weekly or fortnightly auto-transfer from BILLS to SPENDING. 
 
-### BUCKET
-* BUCKET is for people reimbursing you, so it doesn't get lost in your accounts. 
-* It makes it really obvious where the money is coming and going from. It also routes your money around the paystream system set up in BILLS
+### REIMBURSALS
+* REIMBURSALS is for people reimbursing you, so it doesn't get lost in your accounts. 
+* It makes it really obvious where the money is coming and going from. It also routes your money around the paystream system set up in REIMBURSALS
 * If there's money in your bucket then you know you need to do something with it.
 * *e.g you pay for a friend's $30 concert ticket. If they paid you back through bills, the payment would get split, into BILLS, SAVINGS and TAX. Instead, the money gets spent, and reimbursed in one piece*
-* *eg. I pay for 5 peoples tickets, $20 each on my credit card and mine as well, which costs $120 all up. 5 people repay me $20 and I transfer $20 from my spending account to bucket. Then I transfer the 120 from bucket on to the credit card in one payment, which matches the original purchase.*
+* *eg. I pay for 5 peoples tickets, $20 each on my credit card and mine as well, which costs $120 all up. 5 people repay me $20 and I transfer $20 from my spending account to REIMBURSALS. Then I transfer the 120 from REIMBURSALS on to the credit card in one payment, which matches the original purchase.*
 
 ### CREDIT
 * This account is either a credit card, or another account linked to another debit/Eftpos card (not the card that links to SPENDING and BILLS)
