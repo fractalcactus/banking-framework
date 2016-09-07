@@ -15,7 +15,7 @@ All percentages and numbers should be adjusted to what you need
 
 # The Account Framework
 
-### The 5 Accounts:
+### The SUPER SIX:
 
 * SPENDING
 * BILLS
