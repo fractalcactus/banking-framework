@@ -1,4 +1,4 @@
-# banking-framework
+# Banking Framework
 
 # What is this?
 Here is an account framework that a banking guru shared with me. It ensures that you prioritise paying your bills, actually stick to your budget, and track your cash flow. I hope this helps other people make a start on untangling this stuff! 
