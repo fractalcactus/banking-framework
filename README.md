@@ -1,9 +1,12 @@
 # Banking Framework
-
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ### What is this?
+Managing your money is hard. And sometimes scary. I'm tackling this head on.
+I'm not an expert, but I want to share what I've learnt so far.
+
 Here is a description of an account framework that a banking guru shared with me. It ensures that you prioritise paying your bills, actually stick to your budget, and track your cash flow. I hope this helps other people make a start on untangling this stuff! 
 
-My personal situation: I am a freelance software developer, living a fun but unpredictable life with varied income. I don't get regular payments, I go through times of abudance and dry spells. I want be in control of my money, know what is sensible for me to spend, and save. I'm not an expert, but I want to share what I've learnt so far!
+My personal situation: I am a freelance software developer, living a fun but unpredictable life with varied income. I don't get regular payments, I go through times of abudance and dry spells. I want be in control of my money, know what is sensible for me to spend, and save. 
 
 I bank with [KiwiBank](https://auth.kiwibank.nz/oauth/authorize?client_id=4uogpevo0xheiw5t0blubj4zwibte61&login_hint=guest&redirect_uri=https%3A%2F%2Fjoin.kiwibank.nz%2Fauth%2Fkiwi_connect%2Fcallback&response_type=code&scope=openid+email+profile&state=8c15dce365538b187e351a3b66ab3bd690777f7ee1eedb73), who have incredible service, and make it super easy to set up an account with them. They have two great features called [Sweep](https://www.kiwibank.co.nz/personal-banking/clever-stuff/sweep/) and [Paystream](https://www.kiwibank.co.nz/personal-banking/clever-stuff/paystream/) which take a lot of effort out of putting your money in the right places. Kiwibank also allows you to link two accounts to an EFTPOS card, on on each button. I link cheque to SPENDING, and savings to BILLS.
 
@@ -69,7 +72,7 @@ This separates the frivolous purchases from necessities when you look over your 
 
 
 Good luck, let's win at this money game together :D
-
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 
 
