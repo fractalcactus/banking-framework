@@ -56,7 +56,7 @@ This separates the frivolous purchases from necessities when you look over your 
 
 ### SAVINGS
 * SAVINGS is your 18 week buffer for emergencies and financial security. 
-* Once you have an 18 week mountain piled in SAVINGS, you're ready to invest in a Term Deposit, or buy Shares e.t.c
+* Once you have an 18 week mountain piled in SAVINGS, you're ready to start building another mountain invest in a Term Deposit, or buy Shares e.t.c
 
 ### TAX
 * TAX ensures you have saved money for paying tax, if you're a contractor.
