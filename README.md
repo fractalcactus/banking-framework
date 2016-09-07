@@ -59,13 +59,16 @@ This separates the frivolous purchases from necessities when you look over your 
 
 ### Sweeping
 * To make sure that your Bills are always the first priority, you can enable [Sweep](https://www.kiwibank.co.nz/personal-banking/clever-stuff/sweep/). "If your balance falls below your minimum, money is swept back from another account, so there’s always enough for your everyday expenses."
-* E.g Make sure that BILLS always has at least enough to pay your rent ($200). Set up a sweep of $200 from Savings when BILLS falls below $20
+* *E.g Make sure that BILLS always has at least enough to pay your rent ($200). Set up a sweep of $200 from Savings when BILLS falls below $20*
 * You can also set up a sweep to make sure that an account doesn't hold TOO much money
 *  *e.g Money over $500 in SPENDING gets swept to SAVING*
 
 ### Other Considerations
 * remember to enter KiwiSaver, and pay for it if you're a contractor. 
 * If you have regular income, and it's possible, you should pay your bills such as Rent, 2 days after you get paid. That allows a day for the money to transfer if the system/person paying you messes up. 
+* 
+
+Good luck, let's win at this money game together :D
 
 
 
