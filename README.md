@@ -42,7 +42,7 @@ This separates the frivolous purchases from necessities when you look over your 
 
 ### REIMBURSALS
 * REIMBURSALS is for people reimbursing you, so it doesn't get lost in your accounts. 
-* It makes it really obvious where the money is coming and going from. It also routes your money around the paystream system set up in REIMBURSALS
+* It makes it really obvious where the money is coming and going from. It also routes your money around the paystream system set up in BILLS
 * If there's money in your bucket then you know you need to do something with it.
 * *e.g you pay for a friend's $30 concert ticket. If they paid you back through bills, the payment would get split, into BILLS, SAVINGS and TAX. Instead, the money gets spent, and reimbursed in one piece*
 * *eg. I pay for 5 peoples tickets, $20 each on my credit card and mine as well, which costs $120 all up. 5 people repay me $20 and I transfer $20 from my spending account to REIMBURSALS. Then I transfer the 120 from REIMBURSALS on to the credit card in one payment, which matches the original purchase.*
@@ -50,7 +50,7 @@ This separates the frivolous purchases from necessities when you look over your 
 ### CREDIT
 * This account is either a credit card, or another account linked to another debit/Eftpos card (not the card that links to SPENDING and BILLS)
 * It exists so that when you buy things for other people, it doesn't 'mess up' you tracking your spending. 
-* *e.g if you own a credit card: you go shopping for your flat, you spend $250. You don't want to see that in your BILLS account, because it's not a personal bill. Instead, by using the credit account, everyone else in the flat of 5 can pay you $50, to your BUCKET account, which is easily trackable, and you then move that $200 into credit. you can pay $50 into CREDIT from BILLS, and you can clearly see that your grocery bill was a personal $50*
+* *e.g if you own a credit card: you go shopping for your flat, you spend $250. You don't want to see that in your BILLS account, because it's not a personal bill. Instead, by using the credit account, everyone else in the flat of 5 can pay you $50, to your REIMBURSALS account, which is easily trackable, and you then move that $200 into credit. you can pay $50 into CREDIT from BILLS, and you can clearly see that your grocery bill was a personal $50*
 * *e.g if you own a debit card: treat it like a credit card, load it up with say $500 that just sits there, and you can have the same system as above* 
 
 ### SAVINGS
