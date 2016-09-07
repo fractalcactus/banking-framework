@@ -66,7 +66,7 @@ This separates the frivolous purchases from necessities when you look over your 
 ### Other Considerations
 * remember to enter KiwiSaver, and pay for it if you're a contractor. 
 * If you have regular income, and it's possible, you should pay your bills such as Rent, 2 days after you get paid. That allows a day for the money to transfer if the system/person paying you messes up. 
-* 
+
 
 Good luck, let's win at this money game together :D
 
