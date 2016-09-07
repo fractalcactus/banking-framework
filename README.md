@@ -44,7 +44,7 @@ This separates the frivolous purchases from necessities when you look over your 
 * This account is either a credit card, or another account linked to another debit/Eftpos card (not the card that links to SPENDING and BILLS)
 * It exists so that when you buy things for other people, it doesn't 'mess up' you tracking your spending. 
 * *e.g if you own a credit card: you go shopping for your flat, you spend $250. You don't want to see that in your BILLS account, because it's not a personal bill. Instead, by using the credit account, everyone else in the flat of 5 can pay you $50, to your REIMBURSALS account, which is easily trackable, and you then move that $200 into credit. you can pay $50 into CREDIT from BILLS, and you can clearly see that your grocery bill was a personal $50*
-* *e.g if you own a debit card: treat it like a credit card, load it up with say $500 that just sits there, and you can have the same system as above* 
+* *e.g if you own a debit card: treat it like a credit card, load it up with say $500 that just sits there, and you can have the same system as above. The $500 becomes the '0', so that if you saw the balance was $450, you would know that someone needs to pay you back. You would then check REIMBURSALS, see that they had paid and tranfer the money from REIMBURSALS to CREDIT* 
 
 ### REIMBURSALS
 * REIMBURSALS is for people reimbursing you, so it doesn't get lost in your accounts. 
