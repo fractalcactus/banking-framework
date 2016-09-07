@@ -16,7 +16,7 @@ I bank with [KiwiBank](https://auth.kiwibank.nz/oauth/authorize?client_id=4uogpe
 * SPENDING
 * BILLS
 * BUCKET
-* CREDIT (optional)
+* CREDIT 
 * SAVINGS 
 * TAX (if you pay your own tax)
 
