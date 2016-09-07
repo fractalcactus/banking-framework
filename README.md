@@ -1,4 +1,5 @@
-# Banking Framework
+# Banking Framework by Malcolm and Gabby
+
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ### What is this?
 Managing your money is hard. And sometimes scary. I'm tackling this head on.
