@@ -19,7 +19,7 @@ All percentages and numbers should be adjusted to what you need
 
 * SPENDING
 * BILLS
-* BUCKET
+* REIMBURSALS
 * CREDIT 
 * SAVINGS 
 * TAX (if you pay your own tax)
